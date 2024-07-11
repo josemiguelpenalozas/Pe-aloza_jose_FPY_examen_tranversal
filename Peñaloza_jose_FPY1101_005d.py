@@ -14,9 +14,9 @@ while True:
     elif opcion==2:
         funcion2()
     elif opcion==3:
-        pass
+        funcion3()
     elif opcion==4:
-        pass  
+        funcion4()  
     else:
         final()
         break 
